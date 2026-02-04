@@ -1,0 +1,92 @@
+*{
+      box-sizing: border-box;
+    }
+    body{
+      margin:0
+    }
+.topo h1{
+  color:whitesmoke;
+  font-size:70px;
+}
+.topo p{
+  color:whitesmoke;
+  font-size:45px;
+}
+a {
+  padding: 5px 10px;
+  color:white;
+  font-size:40px;
+  text-decoration: none;
+}
+p{
+  padding: 5px 10px;
+  color:ghostwhite;
+  font-size: 25px;
+}
+    .topo {
+      background-color: darkgreen;
+      padding: 30px;
+      text-align: center
+    }
+    .menu{
+      padding: 20px;
+      text-align: center;
+      background-color: green;
+    }
+    .menu a{
+      font-size: 30px;
+      color:whitesmoke;
+      padding:14px 16px;
+      text-decoration: none;
+    }
+    .p1 {
+      text-align: right;
+      background-color: darkblue;
+      padding:60px;
+    }
+    .p1 img{
+      float:left;
+      width: 180px;
+    }
+    
+    .p2 {
+      background-color: darkred;
+      padding:60px;
+    }
+    .p2 img{
+      float:right;
+      width: 180px;
+    }
+    .p3 {
+      text-align: right;
+      background-color:darkcyan;
+      padding:60px;
+    }
+    .p3 img{
+      float:left;
+      width: 130px;
+    }.p4 {
+      background-color: saddlebrown;
+      padding:60px;
+    }
+    .p4 img{
+      float:right;
+      width: 180px;
+    }
+.p5 {
+  text-align: right;
+      background-color: seagreen;
+      padding:60px;
+    }
+    .p5 img{
+      float:left;
+      width:180px
+    }
+.p6 {
+      background-color: darkorange;
+      padding:60px;
+    }
+    .p6 img{
+      float:right;
+      width:180px
+    }
