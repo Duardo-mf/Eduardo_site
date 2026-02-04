@@ -98,3 +98,13 @@ font-size:30px;
 .pd{
   margin-left:20%;
 }
+.di_au img{
+  display:block;
+  margin-left:30%;
+  margin-right:70%;
+}
+.di_au a{
+  text-decoration:none;
+  color: ghostwhite; 
+  font-size:40px;
+}
