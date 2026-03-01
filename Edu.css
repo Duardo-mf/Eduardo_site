@@ -3,7 +3,7 @@
  }
 body {
   margin: 0;
-  background-color: darkblue;
+  background:darkblue;
 }
 h1{
   text-align: center;
@@ -11,19 +11,19 @@ h1{
   font-size: 70px;
 }
 h2 {
-  color: white;
   font-size: 50px;
-}
-h3 {
-  color: white;
-  text-align: center;
-  font-size:50px;
-}
-h4 {
   color:white;
 }
+h3 {
+  text-align: center;
+  font-size:50px;
+color:white;
+}
+h4 {
+color:white;
+}
 p {
-  color: ghostwhite;
+color:ghostwhite;
 }
 .auto{
 padding:20px;
@@ -35,34 +35,38 @@ padding:20px;
 }
 .menu a{
   text-decoration:none;
-  color: ghostwhite; 
   padding: 20px 25px;
   font-size:30px;
+color:white;
 }
 .menu2 {
   background-color: #333;
   text-align: center;
   padding: 5px;
+  
 }
 .menu2 h2{
   font-size:40px;
   text-decoration: none;
+color:white;
 }
 .topo{
-  background-color:darkblue;
+  
   padding: 20px;
 }
 .icon {
   display: block;
   margin: auto;
-  width: 50%; /* Ou qualquer tamanho definido */
+  width: 50%; 
+  border-radius:50px;
 }
 .c1 {
-  background-color: darkblue;
+  
   padding: 20px;
 }
 .c1 p{
 font-size:30px;  
+color:ghostwhite;
 }
 .you {
   display: block;
@@ -78,33 +82,26 @@ font-size:30px;
 }
 .geral h4{
   font-size:40px;
+color:white;
 }
 .geral p{
   font-size:25px;
   text-decoration: square;
+  color:ghostwhite;
 }
 .coluna{
-  background-color:darkblue;
+  
   float: left;
   width: 50%;
 }
 .es{
   display: block;
   margin-left:15%;
+  border-radius: 30px;
 }
 .p10{
   margin-left:10%;
 }
 .pd{
   margin-left:20%;
-}
-.di_au img{
-  display:block;
-  margin-left:30%;
-  margin-right:70%;
-}
-.di_au a{
-  text-decoration:none;
-  color: ghostwhite; 
-  font-size:40px;
 }
